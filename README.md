@@ -44,8 +44,7 @@ Contributions are welcome! If you have any suggestions, feature requests, or fin
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Authors
+## Author
 
-- Olakunle Oluwaseun 
-- Awoyemi Awoyemi
+- Olakunle Oluwaseun Awoyemi
 ```
