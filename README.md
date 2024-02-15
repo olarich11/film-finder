@@ -1,9 +1,7 @@
 
 ```markdown
-## Film Finder Web App
-
-![Film Finder Logo](./apple-touch-icon.png)
-
+## Film Finder Web App!
+[apple-touch-icon](https://github.com/olarich11/film-finder/assets/125461275/16d4b2ed-d500-4163-a84a-a46aea7ef9fa)
 
 Film Finder Web App is a web application that allows users to search for movies by title, view movie details, and discover popular movies.
 
